@@ -8,3 +8,4 @@ git push -u origin main
 
 # uchicago-cs-git-tutorial
 Stephanie Sung hwsung
+Git is pretty cool

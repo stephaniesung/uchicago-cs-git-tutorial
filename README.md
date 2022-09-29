@@ -7,4 +7,4 @@ git remote add origin git@github.com:stephaniesung/uchicago-cs-git-tutorial.git
 git push -u origin main
 
 # uchicago-cs-git-tutorial
-hwsung Stephanie Sung
+Stephanie Sung hwsung
